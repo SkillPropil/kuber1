@@ -10,3 +10,4 @@ microk8s.kubectl config && touch ~/.kube/config
 #Закинул туда всю портянку и все заработало
 
 ```
+<img width="792" alt="Снимок экрана 2024-08-21 в 18 16 11" src="https://github.com/user-attachments/assets/f4f89759-7932-4c54-a30c-b720e950fdd7">
